@@ -1,10 +1,10 @@
 /**
  * Japanese (and general utf8 multibyte) string conversion and handling
  * 
- * @package    JapxlateAndroid (https://github.com/danielrhodeswarp/hiroka)
+ * @package    HiRoKa (https://github.com/danielrhodeswarp/hiroka)
  * @author     Daniel Rhodes
  * @copyright  Copyright (c) 2016 Warp Asylum Ltd (UK)
- * @license    see LICENCE file in source code root folder     MIT
+ * @license    see LICENSE file in source code root folder     MIT
  */
 
 //----character tables----------------------------------------------------------
